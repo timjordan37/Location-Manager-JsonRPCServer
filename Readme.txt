@@ -1,4 +1,4 @@
-To run either app make sure you first start the provided server.
+To run the app make sure you first start the provided server.
 
 To start the server, open a terminal window within the provided
 PlaceJsonRPCServer folder and use the command:
